@@ -14,9 +14,9 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ![2-BasicMap](Images/2-BasicMap.png)
 
-Your first task is to visualize an earthquake data set.
+The first task is to visualize an earthquake data set.
 
-1. **Get your data set**
+1. **Get my data set**
 
    ![3-Data](Images/3-Data.png)
 
@@ -26,12 +26,8 @@ Your first task is to visualize an earthquake data set.
 
 2. **Import & Visualize the Data**
 
-   Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+   A map visualization using Leaflet that plots all of the earthquakes from a data set based on their longitude and latitude.
 
-   * Your data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
+   * Markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color.
 
-   * Include popups that provide additional information about the earthquake when a marker is clicked.
-
-   * Create a legend that will provide context for your map data.
-
-   * Your visualization should look something like the map above.
+   * Included popups that provide additional information about the earthquake when a marker is clicked.
